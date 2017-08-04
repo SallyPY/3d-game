@@ -1,7 +1,9 @@
 # 3d-game
 Project for AIT-Budapest's graphics course
 <h2>Images</h1>
-![alt text](https://github.com/SallyPY/3d-game/pics/game1.png)
+![alt text](https://github.com/SallyPY/3d-game/blob/master/pics/game1.png)
+![Alt text](/blob/master/pics/game1.png?raw=true "Title")
+![alt tag](https://github.com/SallyPY/Escape/blob/master/Escape/src/res/second/secWallBack.png)
 
 <h2> Game Objective </h2>
 
