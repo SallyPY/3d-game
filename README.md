@@ -1,4 +1,4 @@
-# 3d-game
+# 3d-game: Rescue!
 Project for AIT-Budapest's graphics course
 <h2> Game Objective </h2>
 
