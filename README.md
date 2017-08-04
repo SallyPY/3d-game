@@ -1,12 +1,18 @@
 # 3d-game
 Project for AIT-Budapest's graphics course
-<h2>Images</h1>
-
 <h2> Game Objective </h2>
 
 The objective is to collect/rescue the three missing baby slowpokes and return them to their mom,
 who is frozen and needs them to be revived. The user must avoid a hot air balloon that is following
 the user-controlled helicopter or else lose.
+
+<h2>Images</h2>
+
+![Alt text](/pics/game1.png?raw=true "Game pic one")
+![Alt text](/pics/game3.png?raw=true "Game pic three")
+
+
+<h2>Description</h2>
 
 Note: Many trees are placed randomly so if any obstructs your vision please refresh the window.
 
