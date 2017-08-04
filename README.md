@@ -1,7 +1,7 @@
 # 3d-game
 Project for AIT-Budapest's graphics course
 <h2>Images</h1>
-
+![alt text](https://github.com/SallyPY/3d-game/pics/game1.png)
 
 <h2> Game Objective </h2>
 
